@@ -1,4 +1,4 @@
-# Hi there, I'm Surendhar SRS! 👋
+![Header](./header.png)
 
 <center><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
