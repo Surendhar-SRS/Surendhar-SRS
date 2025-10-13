@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
-<center><div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
-</div></center>
+<center>    <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
+</div>    </center>
 
 ## 🚀 About Me
 
@@ -24,7 +24,6 @@
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
