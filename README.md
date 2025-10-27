@@ -40,20 +40,51 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surendhar-SRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendhar-SRS&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendhar-SRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  
+  ### Core Metrics
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)
+  
 </div>
 
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Surendhar-SRS&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+  ### Contribution Streak
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surendhar-SRS&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff9e64&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
+  
 </div>
+
+<div align="center">
+  
+  ### Most Used Languages
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)
+  
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-trophies.vercel.app/?username=Surendhar-SRS&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendhar-SRS&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=79c0ff&area_color=0d1117" alt="Activity Graph" />
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
@@ -72,11 +103,6 @@
 - 💬 Ask me about **Python, AI/ML, Web Development, Software Engineering**
 - ⚡ Fun fact: **I love building AI solutions that make complex tasks simple and intuitive!**
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendhar-SRS&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -91,9 +117,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
   
   ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+</div>
 </div>
