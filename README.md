@@ -1,9 +1,11 @@
 <div style="
-  border: 2px solid #58a6ff;
-  border-radius: 15px;
-  padding: 30px;
-  background-color: rgba(5, 13, 23, 0.5);
-  margin: 20px 10px;
+  border: 3px solid #ffffff;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(5, 13, 23, 0.3);
+  margin: 20px auto;
+  max-width: 1200px;
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.1), inset 0 0 20px rgba(88, 166, 255, 0.05);
 ">
 
 ![Header](./header.png)
@@ -28,45 +30,49 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse; width: 100%; margin: 0 auto;">
+<table style="border-collapse: collapse; width: 100%; margin: 0 auto; background: transparent;">
 
+<!-- Row 1: Frontend, Backend, Databases -->
 <tr>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
-### 🎨 Frontend Development
-*Building responsive, interactive web experiences*
-</td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+### 🎨 Frontend
+*UI/UX & Responsive Design*
 
-### 🔙 Backend Development
-*Scalable server architectures & APIs*
 </td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
+
+### 🔙 Backend
+*Scalable APIs & Architecture*
+
+</td>
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 ### 🗄️ Databases
-*SQL & NoSQL database management*
+*Data Management & Storage*
+
 </td>
 </tr>
 
+<!-- Row 2: Cards -->
 <tr>
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(102, 126, 234, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(102, 126, 234, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -83,21 +89,20 @@
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(240, 147, 251, 0.95) 0%, rgba(245, 87, 108, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(245, 87, 108, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(245, 87, 108, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -112,21 +117,20 @@
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(79, 172, 254, 0.95) 0%, rgba(0, 242, 254, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(79, 172, 254, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(79, 172, 254, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -140,44 +144,47 @@
 </td>
 </tr>
 
+<!-- Row 3: Caching, AI/ML, DevOps -->
 <tr>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 ### ⚡ Caching & Vector DB
-*In-memory caching & vector search*
+*Performance & Vector Search*
+
 </td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 ### 🤖 AI/ML & Deep Learning
-*Neural networks & ML frameworks*
-</td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+*ML Frameworks & Neural Networks*
 
-### 🛠️ DevOps & Deployment
-*Cloud infrastructure & containerization*
+</td>
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
+
+### 🛠️ DevOps & Cloud
+*Containerization & Infrastructure*
 
 </td>
 </tr>
 
+<!-- Row 4: Cards -->
 <tr>
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(250, 112, 154, 0.95) 0%, rgba(254, 225, 64, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(250, 112, 154, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(250, 112, 154, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF6B6B.svg?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -191,21 +198,20 @@
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(168, 237, 234, 0.95) 0%, rgba(254, 214, 227, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(168, 237, 234, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(168, 237, 234, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -221,21 +227,20 @@
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(255, 154, 86, 0.95) 0%, rgba(255, 106, 136, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(255, 154, 86, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(255, 154, 86, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -249,41 +254,44 @@
 </td>
 </tr>
 
+<!-- Row 5: Development Tools, Testing, Others -->
 <tr>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 ### 🔧 Development Tools
-*Version control & development environment*
+*Version Control & Environment*
+
 </td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 ### 📊 Testing & Performance
-*Load testing & performance optimization*
+*Testing & Quality Assurance*
+
 </td>
-<td width="33.33%" style="padding: 10px; text-align: center; vertical-align: bottom;">
+<td width="33.33%" style="padding: 12px; vertical-align: top;">
 
 </td>
 </tr>
 
+<!-- Row 6: Cards -->
 <tr>
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(67, 233, 123, 0.95) 0%, rgba(56, 249, 215, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(67, 233, 123, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(67, 233, 123, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -298,25 +306,25 @@
 <td width="33.33%" style="padding: 10px; vertical-align: top;">
 
 <div style="
-  padding: 25px; 
+  padding: 30px 20px; 
   background: linear-gradient(135deg, rgba(255, 110, 127, 0.95) 0%, rgba(191, 233, 255, 0.95) 100%);
   backdrop-filter: blur(10px);
   border-radius: 20px; 
   text-align: center; 
-  min-height: 220px; 
+  min-height: 240px; 
   display: flex; 
   align-items: center; 
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px 0 rgba(255, 110, 127, 0.37), inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  transition: all 0.3s ease;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(255, 110, 127, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.25);
 ">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
 ![JMeter](https://img.shields.io/badge/JMeter-%23DC382D.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 </div>
 
 </div>
