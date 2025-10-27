@@ -52,7 +52,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surendhar-SRS&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Surendhar-SRS&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
