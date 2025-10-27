@@ -1,18 +1,9 @@
-<div style="
-  border: 3px solid #ffffff;
-  border-radius: 20px;
-  padding: 40px;
-  background-color: rgba(5, 13, 23, 0.3);
-  margin: 20px auto;
-  max-width: 1200px;
-  box-shadow: 0 0 30px rgba(255, 255, 255, 0.1), inset 0 0 20px rgba(88, 166, 255, 0.05);
-">
-
+---
 ![Header](./header.png)
 
-<center>    <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student&color=58a6ff&vCenter=true&height=50" alt="Typing SVG" />
-</div>    </center>
+---
+
+</br>
 
 ## 🚀 About Me
 
@@ -23,10 +14,46 @@
 - 🌟 **Software Developer** focused on writing clean, efficient, and maintainable code
 - 🔍 Always eager to learn new technologies and tackle challenging problems
 - 📍 Based in **Puducherry, India**
+</br>
 
 ---
 
-## 🛠️ Tech Stack
+</br>
+
+## 🌟 Featured Projects
+
+### 🤖 [Orion AI Workspace](https://orionaiworkspace.tech)
+> **Advanced AI-powered workspace platform for enhanced productivity and collaboration**
+- **Tech Stack:** Python, AI/ML, Web Technologies, FastAPI, React
+- **Key Features:** 
+  - ✨ Multi AI Integration (with user's own API key)
+  - 🔄 Workspace Management
+  - ⚡ Real-time Collaboration
+  - 🔐 100% Free & Privacy Focused
+- [🔗 Live Demo](https://orionaiworkspace.tech) | [📂 Repository](https://github.com/Surendhar-SRS/orion-ai) | [🌐 Website](https://orionaiworkspace.tech)
+
+  </br>
+
+---
+
+</br>
+
+## 🎯 Current Focus
+
+- 🔭 **Working on** → **Orion AI Workspace** - an advanced AI-powered productivity platform
+- 🌱 **Learning** → **AI/ML technologies** and **advanced cloud architectures**
+- 🤖 **Exploring** → **Artificial intelligence integration** in web applications
+- 👯 **Collaborating on** → **AI-driven projects** and **open source contributions**
+- 💬 **Ask me about** → **Python, AI/ML, Web Development, Software Engineering**
+- ⚡ **Fun fact** → I love building AI solutions that make complex tasks simple and intuitive! 🚀
+
+</br>
+
+---
+
+</br>
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -339,7 +366,40 @@
 
 </div>
 
+</br>
+
 ---
+
+</br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/surendhar_srs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendhar-srs)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/surendhar_srs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2358a6ff.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://surendharsrs.tech)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendhar@example.com)
+
+</div>
+
+</br>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<sub>⭐ If you find my projects helpful, please consider giving them a star!</sub>
+</div>
+
+---
+
+</br>
 
 ## 📊 GitHub Statistics 
 
@@ -408,72 +468,7 @@
 
 </table>
 
-<br/>
-
----
-
-### 📌 **Statistics Explained**
-
-| Component | Description |
-|-----------|-------------|
-| **📈 Overall Stats** | Total commits, PRs, issues, and repositories. Shows your GitHub engagement level and development velocity. |
-| **🔥 Contribution Streak** | Consecutive days with contributions. Demonstrates consistency and dedication to coding. |
-| **💻 Language Distribution** | Most-used programming languages across your repositories. Highlights your technical expertise. |
-| **🏆 Trophies** | GitHub achievements earned through milestones like pull requests, followers, and repositories. |
-| **📊 Activity Heatmap** | Visual representation of contribution patterns. Brighter areas indicate more activity. |
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [Orion AI Workspace](https://orionaiworkspace.tech)
-> **Advanced AI-powered workspace platform for enhanced productivity and collaboration**
-- **Tech Stack:** Python, AI/ML, Web Technologies, FastAPI, React
-- **Key Features:** 
-  - ✨ Multi AI Integration (with user's own API key)
-  - 🔄 Workspace Management
-  - ⚡ Real-time Collaboration
-  - 🔐 100% Free & Privacy Focused
-- [🔗 Live Demo](https://orionaiworkspace.tech) | [📂 Repository](https://github.com/Surendhar-SRS/orion-ai) | [🌐 Website](https://orionaiworkspace.tech)
-
----
-
-## 🎯 Current Focus
-
-- 🔭 **Working on** → **Orion AI Workspace** - an advanced AI-powered productivity platform
-- 🌱 **Learning** → **AI/ML technologies** and **advanced cloud architectures**
-- 🤖 **Exploring** → **Artificial intelligence integration** in web applications
-- 👯 **Collaborating on** → **AI-driven projects** and **open source contributions**
-- 💬 **Ask me about** → **Python, AI/ML, Web Development, Software Engineering**
-- ⚡ **Fun fact** → I love building AI solutions that make complex tasks simple and intuitive! 🚀
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/surendhar_srs)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendhar-srs)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/surendhar_srs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2358a6ff.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://surendharsrs.tech)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surendhar@example.com)
+</br>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
-
-<br/>
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
-
-<sub>⭐ If you find my projects helpful, please consider giving them a star!</sub>
-</div>
-
 </div>
