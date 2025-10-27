@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <center>    <div align="center">
-    <img                 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Python+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
 </div>    </center>
 
 ## 🚀 About Me
@@ -40,30 +40,35 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-  ### Core Metrics
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)
-  
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📈 Overall Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&rank_icon=github)
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surendhar-SRS&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff9e64&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-  ### Contribution Streak
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surendhar-SRS&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff9e64&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
-  
-</div>
 
-<div align="center">
-  
-  ### Most Used Languages
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)
-  
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendhar-SRS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)
+
 </div>
 
 ---
@@ -71,9 +76,9 @@
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  
-  ![GitHub Trophies](https://github-trophies.vercel.app/?username=Surendhar-SRS&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
-  
+
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Surendhar-SRS&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
+
 </div>
 
 ---
@@ -81,7 +86,9 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendhar-SRS&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=79c0ff&area_color=0d1117" alt="Activity Graph" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Surendhar-SRS&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=79c0ff&area_color=0d1117)
+
 </div>
 
 ---
@@ -106,7 +113,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/surendhar_srs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendhar-srs)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/surendhar_srs)
@@ -117,10 +124,12 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
-  
-  ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views" />
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
 </div>
-</div>
+
