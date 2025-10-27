@@ -177,8 +177,5 @@
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-<br/>
-
 <sub>⭐ If you find my projects helpful, please consider giving them a star!</sub>
-
 </div>
