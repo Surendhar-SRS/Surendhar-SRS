@@ -53,7 +53,7 @@
 
 </br>
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack Experienced ( Used )
 
 <div align="center">
 
