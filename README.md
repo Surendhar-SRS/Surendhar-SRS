@@ -390,7 +390,7 @@
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 *"Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield."* - Surendhar SRS
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
