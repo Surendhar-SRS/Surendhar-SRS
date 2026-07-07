@@ -11,7 +11,7 @@
 - 🎓 **B.Tech Computer Science Engineering** student at **Sri Manakula Vinayagar Engineering College**
 - 💻 **Full Stack Web Developer** building dynamic, responsive web applications
 - 🐍 **Python Developer** working on scalable backend solutions
-- 🤖 Creator of [**Orion AI Workspace**](https://orionaiworkspace.tech), an AI-powered productivity platform
+- 🤖 Creator of [**Orion AI Workspace**](https://orionai.tech), an AI-powered productivity platform
 - 🌱 Currently learning **AI/ML technologies** and **cloud architectures**
 - 💬 Ask me about **Python, AI/ML, Web Development, and Software Engineering**
 - ⚡ Fun fact: I love building AI solutions that make complex tasks simple and intuitive! 🚀
