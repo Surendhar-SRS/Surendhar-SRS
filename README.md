@@ -30,7 +30,7 @@
   - ⚡ Real-time collaboration
   - 🔐 100% free & privacy-focused
 
-[🔗 Live Demo](https://orionaiworkspace.tech) • [📂 Repository](https://github.com/Surendhar-SRS/orion-ai) • [🌐 Website](https://orionaiworkspace.tech)
+[🔗 Live Demo](https://orionai.tech) • [📂 Repository](https://github.com/Surendhar-SRS/orion-ai) • [🌐 Website](https://orionaiworkspace.tech)
 
 ---
 
