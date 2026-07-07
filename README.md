@@ -147,7 +147,7 @@
 
 <div align="center">
 
-### 💡 *"Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield. -Surendhar SRS"*
+### 💡 *"Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield. " -Surendhar SRS*
 
 **Thanks for visiting — let's build something amazing together! 🚀**
 
