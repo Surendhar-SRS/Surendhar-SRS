@@ -8,28 +8,17 @@
   <img src="./header.png" alt="Abstract blue digital network representing AI, software engineering, and connected systems" width="100%" />
   <br />
   <br />
-
-  <h1>Surendhar SRS</h1>
-  <h3>Full Stack Developer · AI Engineer · Agentic AI Systems</h3>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+useful+full-stack+products;Exploring+applied+AI+and+agentic+systems;Turning+ideas+into+working+software" alt="Animated text: Building full-stack products, exploring applied AI and agentic systems, turning ideas into working software" />
-
-  <p>
-    I build production-minded web applications and AI-powered systems —<br />
-    from full-stack products to agentic workflows.
-  </p>
-
   <p>
     <a href="https://portfolio.surendharsrs.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Visit portfolio" /></a>
     <a href="https://www.linkedin.com/in/surendharsrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
     <a href="https://github.com/Surendhar-SRS"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
     <a href="mailto:surendharsrs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Surendhar SRS" /></a>
   </p>
-
   <p>
     <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%2B%20Applied%20AI-2563EB?style=flat-square" alt="Focus: Full Stack and Applied AI" />
     <img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-334155?style=flat-square" alt="Location: Puducherry, India" />
   </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+useful+full-stack+products;Exploring+applied+AI+and+agentic+systems;Turning+ideas+into+working+software" alt="Animated text: Building full-stack products, exploring applied AI and agentic systems, turning ideas into working software" />
 </div>
 
 ---
