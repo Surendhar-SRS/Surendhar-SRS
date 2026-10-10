@@ -23,14 +23,12 @@
     <a href="https://portfolio.surendharsrs.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Visit portfolio" /></a>
     <a href="https://www.linkedin.com/in/surendharsrs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
     <a href="https://github.com/Surendhar-SRS"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <a href="https://orionai.tech"><img src="https://img.shields.io/badge/Orion_AI-Explore-6D28D9?style=for-the-badge&logo=sparkles&logoColor=white" alt="Explore Orion AI" /></a>
-    <a href="mailto:surendharsrs@orionai.pro"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Surendhar SRS" /></a>
+    <a href="mailto:surendharsrs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Surendhar SRS" /></a>
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%2B%20Applied%20AI-2563EB?style=flat-square" alt="Focus: Full Stack and Applied AI" />
     <img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-334155?style=flat-square" alt="Location: Puducherry, India" />
-    <img src="https://komarev.com/ghpvc/?username=Surendhar-SRS&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
 
@@ -269,7 +267,7 @@ My main interests are full-stack development and applied AI. The tools below ref
   <a href="https://portfolio.surendharsrs.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/surendharsrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Surendhar-SRS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:surendharsrs@orionai.pro"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:surendharsrs.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/surendhar_srs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://twitter.com/surendhar_srs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </div>
