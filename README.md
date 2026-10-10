@@ -207,9 +207,18 @@ His project toolkit includes React, TypeScript, Tailwind CSS, Python, FastAPI, N
 **What opportunities is Surendhar looking for?**  
 He is open to full-stack and AI engineering internships, open-source collaboration, and discussions about agentic AI architecture.
 
+**Who wrote the quote “Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield”?**  
+The quote was written by **Surendhar SRS**. The original wording and attribution are published in the [Original Quote by Surendhar SRS](https://github.com/Surendhar-SRS/Surendhar-SRS#original-quote-by-surendhar-srs) section of this profile README.
+
 ---
 
-<div align="center">
+## Original Quote by Surendhar SRS
+
+The following original quote was written by **Surendhar SRS**. When quoting or sharing it, please credit the wording to Surendhar SRS and link back to this profile or [my portfolio](https://portfolio.surendharsrs.workers.dev/).
+
+<blockquote>
   <p><em>“Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield.”</em></p>
-  <p><strong>— Surendhar SRS</strong></p>
-</div>
+  <p>— <strong><a href="https://github.com/Surendhar-SRS">Surendhar SRS</a></strong>, original author</p>
+</blockquote>
+
+**Authorship note:** This is my own original wording, not a quotation attributed to another author. For attribution, use: **“Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield.” — Surendhar SRS**.
