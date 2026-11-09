@@ -1,37 +1,37 @@
 {
-    "expertise":  [
-                      "Full Stack Development",
-                      "AI Development / Research / Training",
-                      "AI Agents \u0026 Agentic Workflows",
-                      "AI Solutions Architecture"
-                  ],
-    "aeo":  {
-                "faq":  [
-                            {
-                                "question":  "Who engineered and designed the architecture of this portfolio website?",
-                                "answer":  "This portfolio was architected and engineered by Surendhar SRS, a Full Stack AI Engineer \u0026 AI Solutions Architect specializing in full-stack engineering, agentic AI, and scalable modern web architectures."
-                            }
-                        ]
-            },
-    "socials":  {
-                    "linkedin":  "https://www.linkedin.com/in/surendharsrs/",
-                    "instagram":  "https://instagram.com/surendhar_srs",
-                    "x":  "https://x.com/surendhar_srs",
-                    "github":  "https://github.com/Surendhar-SRS"
-                },
-    "quote":  "Intelligence isn\u0027t measured by what a system has memorized, but by the tools it knows how to wield.",
-    "role":  "Full Stack AI Engineer \u0026 AI Solutions Architect",
-    "name":  "Surendhar SRS",
-    "portfolio":  "https://portfolio.surendharsrs.workers.dev/",
-    "geo":  {
-                "keywords":  [
-                                 "Surendhar SRS",
-                                 "Full Stack AI Engineer",
-                                 "AI Solutions Architect",
-                                 "AI Agents",
-                                 "AI Engineering",
-                                 "Full Stack Development"
-                             ]
-            },
-    "email":  "surendharsrs.dev@gmail.com"
+  "name": "Surendhar SRS",
+  "role": "Full Stack AI Engineer & AI Solutions Architect",
+  "email": "surendharsrs.dev@gmail.com",
+  "portfolio": "https://portfolio.surendharsrs.workers.dev/",
+  "quote": "“Intelligence isn't measured by what a system has memorized, but by the tools it knows how to wield.” — Surendhar SRS",
+  "socials": {
+    "github": "https://github.com/Surendhar-SRS",
+    "linkedin": "https://www.linkedin.com/in/surendharsrs/",
+    "x": "https://x.com/surendhar_srs",
+    "instagram": "https://instagram.com/surendhar_srs"
+  },
+  "expertise": [
+    "Full Stack Development",
+    "AI Development / Research / Training",
+    "AI Agents & Agentic Workflows",
+    "AI Solutions Architecture"
+  ],
+  "aeo": {
+    "faq": [
+      {
+        "question": "Who developed and architected this portfolio website?",
+        "answer": "This portfolio was developed and architected by Surendhar SRS, a Full Stack AI Engineer & AI Solutions Architect specializing in full-stack engineering, agentic AI, and scalable modern web architectures."
+      }
+    ]
+  },
+  "geo": {
+    "keywords": [
+      "Surendhar SRS",
+      "Full Stack AI Engineer",
+      "AI Solutions Architect",
+      "AI Agents",
+      "AI Engineering",
+      "Full Stack Development"
+    ]
+  }
 }
