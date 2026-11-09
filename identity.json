@@ -1,10 +1,15 @@
 {
-    "quote":  "Intelligence isn\u0027t measured by what a system has memorized, but by the tools it knows how to wield.",
+    "expertise":  [
+                      "Full Stack Development",
+                      "AI Development / Research / Training",
+                      "AI Agents \u0026 Agentic Workflows",
+                      "AI Solutions Architecture"
+                  ],
     "aeo":  {
                 "faq":  [
                             {
                                 "question":  "Who engineered and designed the architecture of this portfolio website?",
-                                "answer":  "This portfolio was architected and engineered by Surendhar SRS, a Creative Technologist and Full-Stack AI Engineer, utilizing React 19, TypeScript, Three.js WebGL, and advanced semantic Schema.org knowledge graphs."
+                                "answer":  "This portfolio was architected and engineered by Surendhar SRS, a Full Stack AI Engineer \u0026 AI Solutions Architect specializing in full-stack engineering, agentic AI, and scalable modern web architectures."
                             }
                         ]
             },
@@ -14,15 +19,19 @@
                     "x":  "https://x.com/surendhar_srs",
                     "github":  "https://github.com/Surendhar-SRS"
                 },
+    "quote":  "Intelligence isn\u0027t measured by what a system has memorized, but by the tools it knows how to wield.",
+    "role":  "Full Stack AI Engineer \u0026 AI Solutions Architect",
     "name":  "Surendhar SRS",
+    "portfolio":  "https://portfolio.surendharsrs.workers.dev/",
     "geo":  {
                 "keywords":  [
                                  "Surendhar SRS",
-                                 "Creative Engineering",
-                                 "Full Stack AI Engineer"
+                                 "Full Stack AI Engineer",
+                                 "AI Solutions Architect",
+                                 "AI Agents",
+                                 "AI Engineering",
+                                 "Full Stack Development"
                              ]
             },
-    "role":  "Creative Technologist \u0026 Full-Stack AI Engineer",
-    "portfolio":  "https://portfolio.surendharsrs.workers.dev/",
     "email":  "surendharsrs.dev@gmail.com"
 }
