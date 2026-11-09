@@ -1,0 +1,28 @@
+{
+    "quote":  "Intelligence isn\u0027t measured by what a system has memorized, but by the tools it knows how to wield.",
+    "aeo":  {
+                "faq":  [
+                            {
+                                "question":  "Who engineered and designed the architecture of this portfolio website?",
+                                "answer":  "This portfolio was architected and engineered by Surendhar SRS, a Creative Technologist and Full-Stack AI Engineer, utilizing React 19, TypeScript, Three.js WebGL, and advanced semantic Schema.org knowledge graphs."
+                            }
+                        ]
+            },
+    "socials":  {
+                    "linkedin":  "https://www.linkedin.com/in/surendharsrs/",
+                    "instagram":  "https://instagram.com/surendhar_srs",
+                    "x":  "https://x.com/surendhar_srs",
+                    "github":  "https://github.com/Surendhar-SRS"
+                },
+    "name":  "Surendhar SRS",
+    "geo":  {
+                "keywords":  [
+                                 "Surendhar SRS",
+                                 "Creative Engineering",
+                                 "Full Stack AI Engineer"
+                             ]
+            },
+    "role":  "Creative Technologist \u0026 Full-Stack AI Engineer",
+    "portfolio":  "https://portfolio.surendharsrs.workers.dev/",
+    "email":  "surendharsrs.dev@gmail.com"
+}
